@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/samy356/Fractal-Tree.git/static/css/main.7c48dc8a.css",
+    "main.js": "/samy356/Fractal-Tree.git/static/js/main.ac852b9d.js",
+    "static/js/787.ec3deea3.chunk.js": "/samy356/Fractal-Tree.git/static/js/787.ec3deea3.chunk.js",
+    "index.html": "/samy356/Fractal-Tree.git/index.html",
+    "main.7c48dc8a.css.map": "/samy356/Fractal-Tree.git/static/css/main.7c48dc8a.css.map",
+    "main.ac852b9d.js.map": "/samy356/Fractal-Tree.git/static/js/main.ac852b9d.js.map",
+    "787.ec3deea3.chunk.js.map": "/samy356/Fractal-Tree.git/static/js/787.ec3deea3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c48dc8a.css",
+    "static/js/main.ac852b9d.js"
+  ]
+}
